@@ -2,19 +2,6 @@
 
 A medium python game project
 
-## Installation
+## Updates
 
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-python main.py
-```
-
-## Features
-
-- core functionality
-- documentation
+Commit 2
