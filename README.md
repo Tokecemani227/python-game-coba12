@@ -4,4 +4,4 @@ A medium python game project
 
 ## Updates
 
-Commit 16
+Commit 17
